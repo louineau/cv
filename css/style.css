@@ -202,7 +202,7 @@ mark{
     background-color: rgba(101, 45, 180, 0.173);
 }
 div#premier_bloc h2#premier_point{
-    padding-top: 5px;
+    padding-top: px;
     padding-left: 10px;
     color: rgb(48, 46, 46);
     text-align: left;
@@ -272,6 +272,6 @@ section ul{
 }
 
 li#espace{
-    padding-top: 10px;
+    padding-top: 5px;
 
 }
